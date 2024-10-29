@@ -12,3 +12,8 @@ __Harjoitus 3__
 
 Kysymys 3: Untracked tiedostot eivät kokonaan poistuneet. Ne piti joko poistaa tai lisätä käsin. Poistin itse untrackedit git clear -f komennolla, joka poistaa untrackedit forcella.
 Kysymys 4: Log komentoon tuli revertin jälkeen uusi ns "commit" joka oli oikeastaan revert, jossa kerrottiin, että tietty committi revertattiin.
+
+__Harjoits 4__
+
+Kysymys 5: Tyylit haarassa muutokset olivat, kun taas masterissa ei ollut. Se oli siis täysin tyylimäärittelyjä ilman.
+Kysymys 7: Mergen jälkeen haarat näyttävät ohjelman osalta taas samalta. Mergellä master sai tyylimäärittelytiedostot.
