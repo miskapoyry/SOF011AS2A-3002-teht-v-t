@@ -23,3 +23,4 @@ Kysymys 7: Mergen jälkeen haarat näyttävät ohjelman osalta taas samalta. Mer
 __Harjoitus 5__
 
 Kysymys 1: Uuden tyhjän github repon luomisen jälkeen näyttää käyttäjälle siltä, ettei repossa ole mitään tavaraa. Github ehdottaakin repon tehneelle käyttäjälle toimintatapoja, joiden avulla käyttäjä saa repoon linkitettyä kokonaan uuden paikallisen gitin tai vaihtoehtoisesti jo olemassa olevan repon. Se jakaa käyttäjälle komennot, jotka voidaan ajaa terminaalissa, jotta hosting voidaan ottaa käyttöön.
+Kysymys 4: Puskemisen jälkeen remote repossa näkyy nyt puskemani master haaran sisältö. Toisen haaran, eli tyylit sisältöä ei ole saatavilla remotessa, koska sitä ei ole puskettu. Omassa lokaalissani nyt näen myös VSCODEssa esimerkiksi vasemmalta alakulmasta myös remote haarat ja niiden sisällön vaihtamalla haaraa. Nyt myös voin lokaalissa käyttää git pull tai git fetch toimintoja, jossa haen remote haaraan tulleet muutokset omaan lokaaliini.
