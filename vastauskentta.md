@@ -17,3 +17,9 @@ __Harjoits 4__
 
 Kysymys 5: Tyylit haarassa muutokset olivat, kun taas masterissa ei ollut. Se oli siis täysin tyylimäärittelyjä ilman.
 Kysymys 7: Mergen jälkeen haarat näyttävät ohjelman osalta taas samalta. Mergellä master sai tyylimäärittelytiedostot.
+
+## HAJAUTETTU GIT
+
+__Harjoitus 5__
+
+Kysymys 1: Uuden tyhjän github repon luomisen jälkeen näyttää käyttäjälle siltä, ettei repossa ole mitään tavaraa. Github ehdottaakin repon tehneelle käyttäjälle toimintatapoja, joiden avulla käyttäjä saa repoon linkitettyä kokonaan uuden paikallisen gitin tai vaihtoehtoisesti jo olemassa olevan repon. Se jakaa käyttäjälle komennot, jotka voidaan ajaa terminaalissa, jotta hosting voidaan ottaa käyttöön.
